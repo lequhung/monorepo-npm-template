@@ -1,0 +1,4 @@
+node_modules/**
+cypress/**
+.eslintrc.js
+cypress.config.js
